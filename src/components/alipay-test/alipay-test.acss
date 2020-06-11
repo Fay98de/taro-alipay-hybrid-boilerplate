@@ -1,0 +1,7 @@
+.alipay-test {
+  background-color: #ccc;
+}
+
+.alipay-test-text {
+  font-size: 24rpx;
+}

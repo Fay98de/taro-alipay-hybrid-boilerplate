@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "alipay-test": "../../components/alipay-test/alipay-test"
+  }
+}

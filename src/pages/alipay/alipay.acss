@@ -1,0 +1,4 @@
+.alipay {
+  padding: 20rpx;
+  background-color: #eee;
+}
